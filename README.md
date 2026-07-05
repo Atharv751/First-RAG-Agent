@@ -65,12 +65,6 @@ This project helped me gain hands-on experience with:
 
 ---
 
-## 📷 Demo
-
-Add screenshots or a demo GIF here.
-
----
-
 ## ⭐ Motivation
 
 This was my first project in the AI and LLM space. The goal was to understand how Retrieval-Augmented Generation works by building the complete pipeline from PDF ingestion to context-aware question answering.
